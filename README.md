@@ -3,7 +3,8 @@
 This is a bootstrap template
 
 ## License
-Licensing Info
+---
+**Licensing Info**
 ---
 ###Contact 
 email@email.com
