@@ -4,5 +4,7 @@ This is a bootstrap template
 
 ## License
 ---
-###Contact 
+** Licensing Info **
+---
+### Contact 
 email@email.com
